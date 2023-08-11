@@ -1,6 +1,6 @@
 from flask import Flask, jsonify
 import os
-import psutils
+import psutil
 
 app = Flask(__name__)
 
